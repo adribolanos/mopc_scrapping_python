@@ -1,0 +1,27 @@
+Nombre: nombre de la obra o identificador
+
+Tipo: categoria de la obra(puentes, pavimentación, etc)
+
+Estado: nivel de realización del proyecto(en construcción o finalizada)
+
+Departamento - Ciudad: departamento y ciudad de realización del proyecto 
+
+Información Adicional: datos adicionales, observaciones o especificaciones del proyecto
+
+Contratista: empresa responsable de la realización de la obra
+
+Extension de la Obra: dimensiones de la obra(longitud, ancho o distancia)
+
+Localidades Beneficiadas: beneficiarios de la obra(generalmente en zonas cercanas a la obra)
+
+Fecha de Inicio: fecha de inicio de la obra
+
+Fecha de Finalización: fecha de culminación de la obra
+
+Plazo de Ejecución (en meses): tiempo total de realización de la obra(en meses)
+
+Avance: porcentaje de culminación de la obra hasta la última actualización
+
+Fuente de Financiación: fuente de financiación para la realización de la obra. 
+
+Inversión: monto total de la inversión para la realización de la obra
